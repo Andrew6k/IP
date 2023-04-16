@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1578490678 source:c:\users\vladl\desktop\ip-proiect\main.cpp
+	<iostream>
+	<graphics.h>
+
+1578567244 source:c:\users\laptop\desktop\ip-proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+
+1578600820 source:c:\users\laptop\desktop\ip-proiect 2\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+
+1578668362 source:c:\users\laptop\desktop\ip-proiect part 3\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1578829713 source:d:\faculty\ip\ip-proiect part 4\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<fstream>
+
+1578916291 source:c:\users\laptop\desktop\ip-proiect part 4\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<fstream>
+
+1579083307 source:c:\users\laptop\desktop\impartirea careului blaga iustinian ioan cîrjanu andrei\main.cpp
+	<iostream>
+	<graphics.h>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<fstream>
+

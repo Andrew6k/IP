@@ -1,0 +1,3 @@
+setfillstyle=scris
+floodfill=umple cu o anumita culoare
+318
